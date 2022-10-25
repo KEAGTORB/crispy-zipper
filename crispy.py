@@ -2,13 +2,11 @@ import zipfile
 import sys
 import os
 
-
 # compress file function
 def zip_file(file_path):
     compress_file = zipfile.ZipFile(file_path + '.zip', 'w')
     compress_file.write(path, compress_type=zipfile.ZIP_DEFLATED)
     compress_file.close()
-
 
 # Declare the function to return all file paths of the particular directory
 def retrieve_file_paths(dir_name):
