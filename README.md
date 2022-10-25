@@ -1,10 +1,10 @@
-## zip or unzip files
+## a simple script to zip or unzip files 
 
-### usage
+### installation
 
-`python crispy.py (filename)`
+`git clone https://github.com/KEAGTORB/crispy-zipper`
 
-example:
+usage:
     python crispy.py example.txt
 
     python crispy.py test.txt
