@@ -1,12 +1,28 @@
-## a simple script to zip or unzip files 
+# ZIPPER
+ simple tool that change ip of your network using tor.a simple script to zip or unzip files
+## Getting Started
 
-### installation
 
-`git clone https://github.com/KEAGTORB/crispy-zipper`
 
-usage:
-    python crispy.py example.txt
+1. You need to clone this repository
+```
+https://github.com/KEAGTORB/crispy-zipper
+```
 
-    python crispy.py test.txt
+2. After you clone the repo you will have to navigate to the folder
+```
+cd crispy-zipper
+```
 
-A Compressed file("filename.zip") will be generated after the program is run
+3. Then you will have to install requirments
+```
+pip install -r requirments.txt 
+```
+
+4. Finally you need to run it
+```
+python crispy.py
+```
+
+
+ **[connect me](https://t.me/keagtorb79)**
