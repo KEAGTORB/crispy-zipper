@@ -1,5 +1,5 @@
 # ZIPPER
- simple tool that change ip of your network using tor.a simple script to zip or unzip files
+ simple tool that  zip and unzip files
 ## Getting Started
 
 
